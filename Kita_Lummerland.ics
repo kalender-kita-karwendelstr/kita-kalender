@@ -721,17 +721,6 @@ DTSTART;VALUE=DATE:20271022
 DTEND;VALUE=DATE:20271023
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-66@openai
-DTSTAMP:20260720T083624Z
-SUMMARY:🎂 Geburtstagsbuffet
-LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART;VALUE=DATE:20271025
-DTEND;VALUE=DATE:20271026
-END:VEVENT
-BEGIN:VEVENT
 UID:kita-lummerland-2027-67@openai
 DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
@@ -787,17 +776,6 @@ DTSTART:20271115T150000
 DTEND:20271115T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-72@openai
-DTSTAMP:20260720T083624Z
-SUMMARY:🎂 Geburtstagsbuffet
-LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART;VALUE=DATE:20271116
-DTEND;VALUE=DATE:20271117
-END:VEVENT
-BEGIN:VEVENT
 UID:kita-lummerland-2027-73@openai
 DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
@@ -838,10 +816,9 @@ LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 M
 DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-DTSTART;VALUE=DATE:20271205
-DTEND;VALUE=DATE:20271206
-END:VEVENT
-BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271206
+DTEND;VALUE=DATE:20271207
+END:VEVENTBEGIN:VEVENT
 UID:kita-lummerland-2027-77@openai
 DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
