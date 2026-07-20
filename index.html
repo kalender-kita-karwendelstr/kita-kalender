@@ -13,8 +13,6 @@
       --muted: #6b7280;
       --line: #e5e7eb;
       --accent: #e11d48;
-      --accent2: #2563eb;
-      --success: #16a34a;
       --shadow: 0 20px 50px rgba(15, 23, 42, 0.10);
       --radius: 28px;
     }
@@ -30,13 +28,13 @@
       min-height: 100vh;
     }
     .wrap {
-      max-width: 1040px;
+      max-width: 1000px;
       margin: 0 auto;
-      padding: 40px 18px 56px;
+      padding: 42px 18px 56px;
     }
     .hero {
       display: grid;
-      grid-template-columns: 1.15fr 0.85fr;
+      grid-template-columns: 1.1fr 0.9fr;
       gap: 24px;
       align-items: center;
     }
@@ -45,9 +43,9 @@
     }
     .card {
       background: var(--card);
-      border: 1px solid rgba(255,255,255,0.7);
       border-radius: var(--radius);
       box-shadow: var(--shadow);
+      border: 1px solid rgba(255,255,255,0.7);
     }
     .main {
       padding: 34px;
@@ -65,23 +63,22 @@
       margin-bottom: 18px;
     }
     h1 {
-      font-size: clamp(2rem, 3.5vw, 3.25rem);
+      font-size: clamp(2rem, 4vw, 3.1rem);
       line-height: 1.05;
       margin: 0 0 14px;
       letter-spacing: -0.03em;
     }
     .lead {
-      font-size: 1.08rem;
+      font-size: 1.07rem;
       line-height: 1.7;
       color: var(--muted);
       margin: 0 0 26px;
-      max-width: 60ch;
+      max-width: 62ch;
     }
     .actions {
       display: flex;
       flex-wrap: wrap;
       gap: 12px;
-      margin-bottom: 22px;
     }
     .btn {
       display: inline-flex;
@@ -107,46 +104,21 @@
       color: var(--text);
       border-color: var(--line);
     }
-    .btn.ghost {
-      background: #eff6ff;
-      color: #1d4ed8;
-      border-color: #dbeafe;
-    }
-    .meta {
-      display: grid;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 12px;
-      margin-top: 22px;
-    }
-    @media (max-width: 640px) {
-      .meta { grid-template-columns: 1fr; }
-    }
-    .pill {
-      padding: 14px;
-      border-radius: 18px;
-      border: 1px solid var(--line);
-      background: #fafafa;
-      min-height: 76px;
-    }
-    .pill strong {
-      display: block;
-      font-size: 0.95rem;
-      margin-bottom: 6px;
-    }
-    .pill span {
+    .note {
+      margin-top: 18px;
       color: var(--muted);
-      font-size: 0.95rem;
-      line-height: 1.45;
+      font-size: 0.96rem;
+      line-height: 1.55;
     }
     .side {
       padding: 26px;
+      text-align: center;
     }
     .qrbox {
       background: linear-gradient(180deg, #0f172a 0%, #1e293b 100%);
       color: white;
       border-radius: 24px;
       padding: 24px;
-      text-align: center;
     }
     .qrbox img {
       width: 240px;
@@ -161,43 +133,8 @@
     .qrbox p {
       margin: 0;
       line-height: 1.6;
-      color: rgba(255,255,255,.86);
+      color: rgba(255,255,255,.88);
       font-size: 0.98rem;
-    }
-    .section {
-      margin-top: 22px;
-      padding: 24px 34px 32px;
-    }
-    .section h2 {
-      margin: 0 0 12px;
-      font-size: 1.35rem;
-      letter-spacing: -0.02em;
-    }
-    .section p, .section li {
-      color: var(--muted);
-      line-height: 1.65;
-      font-size: 1rem;
-    }
-    .steps {
-      display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 14px;
-      margin-top: 14px;
-    }
-    @media (max-width: 700px) {
-      .steps { grid-template-columns: 1fr; }
-    }
-    .step {
-      border: 1px solid var(--line);
-      border-radius: 20px;
-      padding: 18px;
-      background: #fff;
-    }
-    .step strong {
-      display: block;
-      margin-bottom: 8px;
-      color: var(--text);
-      font-size: 1rem;
     }
     .footer {
       text-align: center;
@@ -205,15 +142,21 @@
       font-size: 0.92rem;
       margin-top: 18px;
     }
+    .links {
+      display: flex;
+      justify-content: center;
+      gap: 14px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+    .links a {
+      color: #1d4ed8;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .links a:hover { text-decoration: underline; }
     code {
-      display: block;
-      background: #0b1020;
-      color: #d1d5db;
-      padding: 14px 16px;
-      border-radius: 16px;
-      overflow-x: auto;
-      white-space: nowrap;
-      font-size: 0.92rem;
+      display: none;
     }
   </style>
 </head>
@@ -224,72 +167,36 @@
         <div class="eyebrow">🏫 Städt. Haus für Kinder Karwendelstraße</div>
         <h1>Kita-Kalender abonnieren</h1>
         <p class="lead">
-          Scannen Sie den QR-Code oder öffnen Sie den Kalender-Link, um die aktuellen Kita-Termine
-          direkt im eigenen Kalender zu sehen. Änderungen werden automatisch übernommen.
+          Scannen Sie den QR-Code oder tippen Sie auf den Button, um die aktuellen Kita-Termine
+          direkt im Kalender zu sehen. Neue Termine werden automatisch übernommen.
         </p>
 
         <div class="actions">
-          <a class="btn primary" href="webcal://kalender-kita-karwendelstr.github.io/kita-kalender/Kita_Lummerland.ics">🍎 Kalender abonnieren</a>
+          <a class="btn primary" href="webcal://kalender-kita-karwendelstr.github.io/kita-kalender/Kita_Lummerland.ics">📅 Kalender abonnieren</a>
           <a class="btn secondary" href="https://kalender-kita-karwendelstr.github.io/kita-kalender/Kita_Lummerland.ics">📄 ICS-Datei öffnen</a>
-          <a class="btn ghost" href="https://kalender-kita-karwendelstr.github.io/kita-kalender/">🌐 Diese Seite teilen</a>
         </div>
 
-        <div class="meta">
-          <div class="pill">
-            <strong>Für Apple Geräte</strong>
-            <span>Ein Klick auf den Button öffnet direkt das Kalenderabo.</span>
-          </div>
-          <div class="pill">
-            <strong>Für alle Eltern</strong>
-            <span>Auch Android, Outlook und andere Kalender-Apps können den Link nutzen.</span>
-          </div>
-          <div class="pill">
-            <strong>Automatische Updates</strong>
-            <span>Wenn die ICS-Datei aktualisiert wird, erscheinen die neuen Termine automatisch.</span>
-          </div>
-        </div>
+        <p class="note">
+          Für Apple-Geräte öffnet der Button direkt das Kalenderabo. Auf anderen Geräten kann die
+          Kalenderdatei ebenfalls verwendet werden.
+        </p>
       </div>
 
       <div class="card side">
         <div class="qrbox">
           <h2 style="margin:0; font-size:1.25rem;">QR-Code</h2>
           <img src="qr-code.png" alt="QR-Code zum Kita-Kalender" />
-          <p>
-            Scannen Sie den QR-Code mit dem Smartphone.
-            Er führt zur Abo-Seite mit dem Kalenderlink.
-          </p>
+          <p>Einfach scannen und den Kalender abonnieren.</p>
         </div>
       </div>
     </div>
 
-    <div class="card section">
-      <h2>So funktioniert es</h2>
-      <div class="steps">
-        <div class="step">
-          <strong>1. QR-Code scannen</strong>
-          <p>Der Code öffnet diese Seite mit dem Kalenderabo.</p>
-        </div>
-        <div class="step">
-          <strong>2. Auf „Kalender abonnieren“ tippen</strong>
-          <p>Apple Kalender öffnet sich mit dem Abo-Dialog.</p>
-        </div>
-        <div class="step">
-          <strong>3. Abo bestätigen</strong>
-          <p>Die Termine werden in den Kalender übernommen und aktuell gehalten.</p>
-        </div>
-        <div class="step">
-          <strong>4. Seite später erneut nutzen</strong>
-          <p>Die URL bleibt gleich. Nur die ICS-Datei wird bei Bedarf ersetzt.</p>
-        </div>
+    <div class="footer">
+      <div>Direktlink zur Seite: https://kalender-kita-karwendelstr.github.io/kita-kalender/</div>
+      <div class="links">
+        <a href="https://kalender-kita-karwendelstr.github.io/kita-kalender/">Startseite</a>
+        <a href="https://kalender-kita-karwendelstr.github.io/kita-kalender/Kita_Lummerland.ics">Kalenderdatei</a>
       </div>
-    </div>
-
-    <div class="card section">
-      <h2>Direktlink für die Kalenderdatei</h2>
-      <code>https://kalender-kita-karwendelstr.github.io/kita-kalender/Kita_Lummerland.ics</code>
-      <p class="footer">
-        Tipp: Für GitHub Pages muss die Datei im Repository liegen und über diese feste URL erreichbar sein.
-      </p>
     </div>
   </div>
 </body>
