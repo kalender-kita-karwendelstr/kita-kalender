@@ -3,14 +3,993 @@ VERSION:2.0
 PRODID:-//OpenAI//Kita Kalender//DE
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Kita Lummerland 2027
+X-WR-CALNAME:Kita Lummerland 2026-2027
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:kita-lummerland-2027-1@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2026-1@openai
+DTSTAMP:20260721T074043Z
 SUMMARY:🎉 Neujahr
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-2@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Kita geschlossen
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-3@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Kita geschlossen
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-4@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Heilige Drei Könige
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-5@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 Team ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260112T150000
+DTEND:20260112T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-6@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-7@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Faschingsfeier
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-8@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Rosenmontag
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-9@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🕛 Ab 12 Uhr geschlossen
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-10@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-11@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Teamfortbildung geschl.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-12@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 Team ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260309T150000
+DTEND:20260309T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-13@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Oster-Buffet/Ostereier
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-14@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Beginn der Sommerzeit
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-15@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Karfreitag
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-16@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👋 Tag der offenen Tür
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-17@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Ostern
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-18@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Ostermontag
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-19@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 Team ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260413T150000
+DTEND:20260413T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-20@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:ℹ️ Info Wechsel Kiga
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Information\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-21@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-22@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Tag der Arbeit
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-23@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Klausurtag geschl.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-24@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 Team ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-25@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Muttertag
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-26@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:☕ Mutter-Vatertagskaffee
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-27@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Christi Himmelfahrt
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-28@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Kita geschlossen
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-29@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Klausurtag geschl.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-30@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Klausurtag geschl.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-31@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Pfingsten
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-32@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Pfingstmontag
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-33@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Regenerationstag ges.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-34@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-35@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Regenerationstag ges.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-36@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Fronleichnam
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-37@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Kita geschlossen
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-38@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 Team ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260608T150000
+DTEND:20260608T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-39@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-40@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Regenerationstag ges.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-41@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👋 Fam.Ausflug/Sommerf.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-42@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 TEAM 15 Uhr zu / Info Krippe
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260713T150000
+DTEND:20260713T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-43@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-44@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-45@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🕛 Ab 12 Uhr geschlossen
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-46@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-47@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-48@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-49@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-50@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-51@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-52@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-53@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-54@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-55@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-56@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-57@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-58@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-59@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-60@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚫 Sommerschließung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-61@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Teamfortbildung ges.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-62@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 TEAM ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20260914T150000
+DTEND:20260914T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-63@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👋 Elternabend\, EB Wahl
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-64@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Klausurtag geschl.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-65@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🔴 Klausurtag geschl.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-66@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Tag der Dt. Einheit
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-67@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 TEAM ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261012T150000
+DTEND:20261012T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-68@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 TEAM ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261014T150000
+DTEND:20261014T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-69@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👋 Elternabend\, EB Wahl
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-70@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Ende der Sommerzeit
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-71@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-72@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Reformationstag
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-73@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Allerheiligen
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-74@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Lichterfest
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-75@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 TEAM ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261109T150000
+DTEND:20261109T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-76@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 TEAM ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261112T150000
+DTEND:20261112T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-77@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-78@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 1. Advent
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-79@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Nikolaus
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-80@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:👥 TEAM ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20261214T150000
+DTEND:20261214T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-81@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎂 Geburtstags-Buffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-82@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🕛 Ab 12 Uhr geschl.
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-83@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Heiligabend
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-84@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 1. Weihnachtstag
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-85@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 2. Weihnachtstag
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-86@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚨 Notbetreuung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-87@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚨 Notbetreuung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-88@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🚨 Notbetreuung
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2026-89@openai
+DTSTAMP:20260721T074043Z
+SUMMARY:🎉 Silvester
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2026 Karwendelstraße Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2027-1@openai
+DTSTAMP:20260720T083624Z
+SUMMARY:🎉 Neujahr
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270101
@@ -18,10 +997,10 @@ DTEND;VALUE=DATE:20270102
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-2@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Kita geschlossen
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270104
@@ -29,10 +1008,10 @@ DTEND;VALUE=DATE:20270105
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-3@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Kita geschlossen
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270105
@@ -40,10 +1019,10 @@ DTEND;VALUE=DATE:20270106
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-4@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Heilige Drei Könige
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270106
@@ -51,10 +1030,10 @@ DTEND;VALUE=DATE:20270107
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-5@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20270118T150000
@@ -62,10 +1041,10 @@ DTEND:20270118T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-6@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270128
@@ -73,10 +1052,10 @@ DTEND;VALUE=DATE:20270129
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-7@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Faschingsfeier
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270204
@@ -84,10 +1063,10 @@ DTEND;VALUE=DATE:20270205
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-8@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Rosenmontag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270208
@@ -95,10 +1074,10 @@ DTEND;VALUE=DATE:20270209
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-9@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🕛 Ab 12 Uhr geschlossen
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Teilweise Schließung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Teilweise Schließung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270209
@@ -106,10 +1085,10 @@ DTEND;VALUE=DATE:20270210
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-10@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👋 Tag der offenen Tür
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270217
@@ -117,10 +1096,10 @@ DTEND;VALUE=DATE:20270218
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-11@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20270222T150000
@@ -128,10 +1107,10 @@ DTEND:20270222T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-12@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270225
@@ -139,10 +1118,10 @@ DTEND;VALUE=DATE:20270226
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-13@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20270315T150000
@@ -150,10 +1129,10 @@ DTEND:20270315T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-14@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet / Ostern
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270325
@@ -161,10 +1140,10 @@ DTEND;VALUE=DATE:20270326
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-15@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Karfreitag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270326
@@ -172,10 +1151,10 @@ DTEND;VALUE=DATE:20270327
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-16@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Ostern
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270328
@@ -183,10 +1162,10 @@ DTEND;VALUE=DATE:20270329
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-17@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Ostermontag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270329
@@ -194,10 +1173,10 @@ DTEND;VALUE=DATE:20270330
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-18@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20270412T150000
@@ -205,10 +1184,10 @@ DTEND:20270412T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-19@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:ℹ️ Info Wechsel Kiga
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Information\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Information\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270415
@@ -216,10 +1195,10 @@ DTEND;VALUE=DATE:20270416
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-20@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270429
@@ -227,10 +1206,10 @@ DTEND;VALUE=DATE:20270430
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-21@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Tag der Arbeit
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270501
@@ -238,10 +1217,10 @@ DTEND;VALUE=DATE:20270502
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-22@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🔴 Klausurtag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270503
@@ -249,10 +1228,10 @@ DTEND;VALUE=DATE:20270504
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-23@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🔴 Klausurtag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270504
@@ -260,10 +1239,10 @@ DTEND;VALUE=DATE:20270505
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-24@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🔴 Regenerationstag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270505
@@ -271,10 +1250,10 @@ DTEND;VALUE=DATE:20270506
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-25@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Christi Himmelfahrt
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270506
@@ -282,10 +1261,10 @@ DTEND;VALUE=DATE:20270507
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-26@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🔴 Fenstertag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270507
@@ -293,10 +1272,10 @@ DTEND;VALUE=DATE:20270508
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-27@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Muttertag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270509
@@ -304,10 +1283,10 @@ DTEND;VALUE=DATE:20270510
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-28@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:☕ Mutter/Vatertagskaffee
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270510
@@ -315,10 +1294,10 @@ DTEND;VALUE=DATE:20270511
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-29@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Pfingsten
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270516
@@ -326,10 +1305,10 @@ DTEND;VALUE=DATE:20270517
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-30@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Pfingstmontag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270517
@@ -337,10 +1316,10 @@ DTEND;VALUE=DATE:20270518
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-31@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270520
@@ -348,10 +1327,10 @@ DTEND;VALUE=DATE:20270521
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-32@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Fronleichnam
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270527
@@ -359,10 +1338,10 @@ DTEND;VALUE=DATE:20270528
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-33@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🔴 Fenstertag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270528
@@ -370,10 +1349,10 @@ DTEND;VALUE=DATE:20270529
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-34@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20270531T150000
@@ -381,10 +1360,10 @@ DTEND:20270531T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-35@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270624
@@ -392,10 +1371,10 @@ DTEND;VALUE=DATE:20270625
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-36@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🔴 Regenerationstag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270625
@@ -403,10 +1382,10 @@ DTEND;VALUE=DATE:20270626
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-37@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20270628T150000
@@ -414,10 +1393,10 @@ DTEND:20270628T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-38@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:ℹ️ Info Krippe (neue Kd.)
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Information\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Information\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270712
@@ -425,10 +1404,10 @@ DTEND;VALUE=DATE:20270713
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-39@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👋 Familienausflug
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270723
@@ -436,10 +1415,10 @@ DTEND;VALUE=DATE:20270724
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-40@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20270726T150000
@@ -447,10 +1426,10 @@ DTEND:20270726T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-41@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270729
@@ -458,10 +1437,10 @@ DTEND;VALUE=DATE:20270730
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-42@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🔴 Klausurtag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270802
@@ -469,10 +1448,10 @@ DTEND;VALUE=DATE:20270803
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-43@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🔴 Klausurtag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270803
@@ -480,10 +1459,10 @@ DTEND;VALUE=DATE:20270804
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-44@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270816
@@ -491,10 +1470,10 @@ DTEND;VALUE=DATE:20270817
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-45@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270817
@@ -502,10 +1481,10 @@ DTEND;VALUE=DATE:20270818
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-46@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270818
@@ -513,10 +1492,10 @@ DTEND;VALUE=DATE:20270819
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-47@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270819
@@ -524,10 +1503,10 @@ DTEND;VALUE=DATE:20270820
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-48@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270820
@@ -535,10 +1514,10 @@ DTEND;VALUE=DATE:20270821
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-49@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270823
@@ -546,10 +1525,10 @@ DTEND;VALUE=DATE:20270824
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-50@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270824
@@ -557,10 +1536,10 @@ DTEND;VALUE=DATE:20270825
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-51@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270825
@@ -568,10 +1547,10 @@ DTEND;VALUE=DATE:20270826
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-52@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270826
@@ -579,10 +1558,10 @@ DTEND;VALUE=DATE:20270827
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-53@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270827
@@ -590,10 +1569,10 @@ DTEND;VALUE=DATE:20270828
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-54@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270830
@@ -601,10 +1580,10 @@ DTEND;VALUE=DATE:20270831
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-55@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270831
@@ -612,10 +1591,10 @@ DTEND;VALUE=DATE:20270901
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-56@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270901
@@ -623,10 +1602,10 @@ DTEND;VALUE=DATE:20270902
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-57@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270902
@@ -634,10 +1613,10 @@ DTEND;VALUE=DATE:20270903
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-58@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 Sommerschließung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270903
@@ -645,10 +1624,10 @@ DTEND;VALUE=DATE:20270904
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-59@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🔴 Klausurtag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270906
@@ -656,10 +1635,10 @@ DTEND;VALUE=DATE:20270907
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-60@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20270920T150000
@@ -667,10 +1646,10 @@ DTEND:20270920T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-61@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20270929
@@ -678,10 +1657,10 @@ DTEND;VALUE=DATE:20270930
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-62@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Tag der Deutschen Einheit
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271003
@@ -689,10 +1668,10 @@ DTEND;VALUE=DATE:20271004
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-63@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:ℹ️ EA mit EB Wahl
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271012
@@ -700,10 +1679,10 @@ DTEND;VALUE=DATE:20271013
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-64@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20271018T150000
@@ -711,10 +1690,10 @@ DTEND:20271018T160000
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-65@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Herbstfest
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271022
@@ -722,186 +1701,241 @@ DTEND;VALUE=DATE:20271023
 END:VEVENT
 BEGIN:VEVENT
 UID:kita-lummerland-2027-66@openai
-DTSTAMP:20260720T100021Z
+DTSTAMP:20260720T083624Z
+SUMMARY:🎂 Geburtstagsbuffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2027-67@openai
+DTSTAMP:20260720T083624Z
+SUMMARY:🎂 Geburtstagsbuffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2027-68@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Reformationstag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-67@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-69@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Allerheiligen
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-68@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-70@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20271113T150000
+DTEND:20271113T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2027-71@openai
+DTSTAMP:20260720T083624Z
+SUMMARY:👥 Team ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20271115T150000
 DTEND:20271115T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-69@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-72@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2027-73@openai
+DTSTAMP:20260720T083624Z
+SUMMARY:👥 Team ab 15 Uhr zu
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+DTSTART:20271118T150000
+DTEND:20271118T160000
+END:VEVENT
+BEGIN:VEVENT
+UID:kita-lummerland-2027-74@openai
+DTSTAMP:20260720T083624Z
+SUMMARY:🎂 Geburtstagsbuffet
+LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271125
 DTEND;VALUE=DATE:20271126
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-70@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-75@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 1. Advent
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271128
 DTEND;VALUE=DATE:20271129
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-71@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-76@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Nikolaus
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
-DTSTART;VALUE=DATE:20271206
-DTEND;VALUE=DATE:20271207
+DTSTART;VALUE=DATE:20271205
+DTEND;VALUE=DATE:20271206
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-72@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-77@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:👥 Team ab 15 Uhr zu
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART:20271213T150000
 DTEND:20271213T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-73@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-78@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎂 Geburtstagsbuffet
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Veranstaltung\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Veranstaltung\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271216
 DTEND;VALUE=DATE:20271217
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-74@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-79@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🚫 geschlossen
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Schließtag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Schließtag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271223
 DTEND;VALUE=DATE:20271224
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-75@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-80@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Heiligabend
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271224
 DTEND;VALUE=DATE:20271225
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-76@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-81@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 1. Weihnachtstag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-77@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-82@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 2. Weihnachtstag
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271226
 DTEND;VALUE=DATE:20271227
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-78@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-83@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🚨 Notbetreuung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271227
 DTEND;VALUE=DATE:20271228
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-79@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-84@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🚨 Notbetreuung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271228
 DTEND;VALUE=DATE:20271229
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-80@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-85@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🚨 Notbetreuung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271229
 DTEND;VALUE=DATE:20271230
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-81@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-86@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🚨 Notbetreuung
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Hinweis\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271230
 DTEND;VALUE=DATE:20271231
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2027-82@openai
-DTSTAMP:20260720T100021Z
+UID:kita-lummerland-2027-87@openai
+DTSTAMP:20260720T083624Z
 SUMMARY:🎉 Silvester
 LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Feiertag\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
+DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\\nKategorie: Feiertag\\nQuelle: Kalender 2027 Karwendelstraße 44 Lummerland
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 DTSTART;VALUE=DATE:20271231
