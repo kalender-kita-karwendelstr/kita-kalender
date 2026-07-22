@@ -798,17 +798,6 @@ DTSTART:20261109T150000
 DTEND:20261109T160000
 END:VEVENT
 BEGIN:VEVENT
-UID:kita-lummerland-2026-73@openai
-DTSTAMP:20260721T085743Z
-SUMMARY:👥 TEAM ab 15 Uhr zu
-LOCATION:Städt. Haus für Kinder Karwendelstraße Karwendelstraße 44\, 81369 München\, Deutschland
-DESCRIPTION:Städt. Haus für Kinder Karwendelstraße\nKategorie: Hinweis\nQuelle: Kalender 2026 Karwendelstraße Lummerland
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-DTSTART:20261112T150000
-DTEND:20261112T160000
-END:VEVENT
-BEGIN:VEVENT
 UID:kita-lummerland-2026-74@openai
 DTSTAMP:20260721T085743Z
 SUMMARY:🎂 Geburtstags-Buffet
